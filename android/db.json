@@ -1,0 +1,38 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Balkish",
+      "nim": "21/482371/SV/19930",
+      "kelas": "B",
+      "icon": "globe-asia",
+      "color": "#0174BE"
+    },
+    {
+      "nama": "Adien",
+      "nim": "21/482371/SV/19931",
+      "kelas": "B",
+      "icon": "globe",
+      "color": "#0174BE",
+      "id": 2
+    },
+    {
+      "name": "Andin",
+      "nim": "21/482371/SV/19933",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "color": "#fff",
+      "icon": "star",
+      "id": 3
+    },
+    {
+      "name": " Nadin",
+      "nim": "21/482371/SV/19934",
+      "kelas": "B",
+      "jeniskelamin": "Perempuan",
+      "color": "#0174BE",
+      "icon": "star",
+      "id": 4
+    }
+  ]
+}
