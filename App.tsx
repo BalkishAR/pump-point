@@ -76,7 +76,7 @@ function App(): JSX.Element {
 
             {/* Profile Picture */}
             <Image
-              source={require('./peta/spbu.png')}
+              source={require('./peta/img.jpg')}
               style={styles.profilePicture}
             />
 
@@ -87,7 +87,7 @@ function App(): JSX.Element {
 
           
 
-          <Section title="Media Sosial"></Section>
+          <Section title=""></Section>
           <LearnMoreLinks />
         </View>
         </View>

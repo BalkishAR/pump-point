@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import { View, Text, FlatList, StyleSheet, Linking, TouchableOpacity, TextInput } from 'react-native';
+import { View, Text, FlatList, StyleSheet, Linking, TouchableOpacity, TextInput, ScrollView } from 'react-native';
 import FontAwesome5 from 'react-native-vector-icons/FontAwesome5';
 import { SafeAreaView } from 'react-native-safe-area-context';
 
@@ -45,6 +45,7 @@ const Callapi = () => {
 
   return (
     <SafeAreaView style={styles.container}>
+      <ScrollView>
       <View style={styles.searchContainer}>
         <View style={styles.searchInputContainer}>
           <TextInput
@@ -96,6 +97,7 @@ const Callapi = () => {
           />
         </View>
       )}
+      </ScrollView>
     </SafeAreaView>
   );
 };
