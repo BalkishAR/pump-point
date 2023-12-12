@@ -39,6 +39,7 @@ Fitur Search data di List
 ![Alt text](image-4.png)
 
 Input Data
+![Alt text](image-7.png)
 
 Profile Screen
 ![Alt text](image-6.png)
