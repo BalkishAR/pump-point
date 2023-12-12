@@ -13,8 +13,11 @@ Aplikasi dibuat dengan framework react native dengan database spreadsheet yang m
 6. Javascript
 7. Leaflet.js
 8. FontAwesome6
-7. GitHub
-8. Data persebaran SPBU.
+9. GitHub
+10. Data persebaran SPBU
+11. Andoid studio
+12. SDK Tool Kit
+13. Node.Js
 
 # Sumber Data
 Data persebaran SPBU diperoleh dari add data yang acuannya melihat dari google maps.
